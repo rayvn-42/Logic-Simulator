@@ -4,7 +4,7 @@ Logic Simulator is a simple program written in Python that emulates electronic l
 
 ## Features
 
-- Simulates basc logic gates (AND, OR, NOT, NAND, XOR)
+- Simulates basic logic gates (AND, OR, NOT, NAND, XOR)
 - Implements a **SR Latch** for sequential logic
 - 1-Bit and 4-Bit Binary Adder
 - CLI-based user interaction
@@ -16,7 +16,7 @@ The following instructions are designed to get this project up and running on yo
 
 ### Prerequisites
 
-Requirements to run the program
+Requirements to run the program:
 - [Python](https://www.python.org/downloads/) [Recommended: v3.12.6]
 - [git](https://git-scm.com/downloads) [Recommended: v2.48.1]
 
