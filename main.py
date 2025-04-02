@@ -2,15 +2,6 @@ import LogicChips
 import subprocess
 import os
 
-# ---FOR TESTING---
-#    print("------ Input Testing ------", end='\n')
-#    print(LogicChips.Not.calculate(1))
-#    print(LogicChips.Not.calculate(0))
-#    print("------ Truth Table ------", end='\n')
-#    for i in range(len(LogicChips.Not.PrntTruthTbl())):
-#        print(LogicChips.Not.PrntTruthTbl()[i], end='\n')
-# -----------------
-
 def main():
     running = True
 
