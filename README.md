@@ -16,7 +16,7 @@ The following instructions are designed to get this project up and running on yo
 
 ### Prerequisites
 
-Requirements to run the program:
+Requirements to install and run the program:
 - [Python](https://www.python.org/downloads/) [Recommended: v3.12.6]
 - [git](https://git-scm.com/downloads) [Recommended: v2.48.1]
 
