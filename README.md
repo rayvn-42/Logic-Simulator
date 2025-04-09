@@ -12,7 +12,7 @@ Logic Simulator is a simple program written in Python that emulates electronic l
 
 ## Getting Started
 
-The following instructions are designed to get this project up and running on your local system with the recommended program versions, and might not work if you have a different version.
+**NOTE** - The following instructions are designed to get this project up and running on your local system with the recommended program versions, and might not work if you have a different version.
 
 ### Prerequisites
 
